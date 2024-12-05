@@ -1,0 +1,34 @@
+.pri-heading {
+  color: var(--text-color-pri);
+  font-size: 3.2rem;
+  font-weight: bold;
+  margin: 0 0 2.5rem;
+}
+
+.sec-heading {
+  color: var(--text-color-sec);
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 2.5rem;
+}
+
+.para {
+  color: var(--text-color-tri);
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin-bottom: 4rem;
+}
+
+.socialLinks a{
+    display: inline-block;
+    color: var(--text-color-pri);
+}
+
+.socialLinks i {
+    font-size: 4rem;
+}
+
+.socialLinks li {
+    display: inline-block;
+    margin-right: 4rem;
+}
