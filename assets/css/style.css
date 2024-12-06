@@ -26,3 +26,21 @@
 .inspiration{
     margin-top: 7.2rem;
 }
+
+
+/* features css starts here  */
+
+.features{
+    padding: 15rem 0 8.5rem;
+}
+.featuresTubmb{
+    margin-bottom: 8.5rem;
+}
+.featuresContainer{
+    padding:  0 2rem;
+    margin-bottom: 9rem;
+}
+
+.featuresTubmb i {
+    font-size: 4rem;
+}

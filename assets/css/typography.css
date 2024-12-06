@@ -32,3 +32,15 @@
     display: inline-block;
     margin-right: 4rem;
 }
+
+.feaThumbHeading {
+  font-size: 2.2rem;
+  color: var(--text-color-pri);
+  font-weight: bold;
+  margin: 0 0 1.5rem;
+}
+.feaThumbPara{
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--text-color-q);
+}

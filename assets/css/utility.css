@@ -4,6 +4,7 @@
   --text-color-pri: #010101;
   --text-color-sec : #313841;
   --text-color-tri : #555;
+  --text-color-q : #898989;
 }
 
 
@@ -15,4 +16,13 @@ ul {
 
 a:is(:link, :visited) {
   text-decoration: none;
+}
+
+
+.px-20{
+  padding: 0 2rem;
+}
+
+.mb-90 {
+  margin-bottom: 9rem;
 }
